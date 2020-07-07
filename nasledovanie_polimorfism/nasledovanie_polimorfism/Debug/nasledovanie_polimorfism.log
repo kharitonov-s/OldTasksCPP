@@ -1,0 +1,11 @@
+﻿Сборка начата 19.03.2016 11:33:17.
+     1>Проект "c:\Users\harya\documents\visual studio 2015\Projects\nasledovanie_polimorfism\nasledovanie_polimorfism\nasledovanie_polimorfism.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\nasledovanie_polimorfism\nasledovanie_polimorfism\header.h(55): error C3668: B::override_method: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+     1>Сборка проекта "c:\Users\harya\documents\visual studio 2015\Projects\nasledovanie_polimorfism\nasledovanie_polimorfism\nasledovanie_polimorfism.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.43

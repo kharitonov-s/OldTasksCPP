@@ -1,0 +1,49 @@
+﻿Сборка начата 02.01.2017 17:35:13.
+     1>Проект "C:\Users\harya\documents\visual studio 2015\Projects\African_face\African_face\African_face.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(396): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(396): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(397): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(397): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(398): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(398): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(399): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(404): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(413): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(415): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(407): warning C4101: bz: неиспользованная локальная переменная
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(407): warning C4101: az: неиспользованная локальная переменная
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(457): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(462): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(472): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(478): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(481): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(482): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(518): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(522): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(545): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(558): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(563): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(564): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(566): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(713): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(756): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(798): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(821): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(833): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(848): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(860): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(875): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(887): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\harya\documents\visual studio 2015\projects\african_face\african_face\source.cpp(903): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+       Link:
+         D:\С\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\harya\documents\visual studio 2015\Projects\African_face\Debug\African_face.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\harya\documents\visual studio 2015\Projects\African_face\Debug\African_face.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\harya\documents\visual studio 2015\Projects\African_face\Debug\African_face.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\tgaim.obj
+         African_face.vcxproj -> C:\Users\harya\documents\visual studio 2015\Projects\African_face\Debug\African_face.exe
+     1>Сборка проекта "C:\Users\harya\documents\visual studio 2015\Projects\African_face\African_face\African_face.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.34

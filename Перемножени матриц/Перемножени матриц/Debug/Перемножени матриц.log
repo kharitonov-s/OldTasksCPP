@@ -1,0 +1,13 @@
+﻿Сборка начата 19.12.2015 13:49:26.
+     1>Проект "C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Перемножени матриц\Перемножени матриц.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         D:\С\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Debug\Перемножени матриц.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Debug\Перемножени матриц.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Debug\Перемножени матриц.lib" /MACHINE:X86 Debug\Source.obj
+         Перемножени матриц.vcxproj -> C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Debug\Перемножени матриц.exe
+     1>Сборка проекта "C:\Users\harya\Documents\Visual Studio 2015\Projects\Перемножени матриц\Перемножени матриц\Перемножени матриц.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.81

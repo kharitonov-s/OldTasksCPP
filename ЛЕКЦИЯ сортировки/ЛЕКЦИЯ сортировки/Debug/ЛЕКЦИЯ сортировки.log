@@ -1,0 +1,14 @@
+﻿Сборка начата 05.12.2015 14:10:28.
+     1>Проект "C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\ЛЕКЦИЯ сортировки\ЛЕКЦИЯ сортировки.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\лекция сортировки\лекция сортировки\source.cpp(229): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         D:\С\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\Debug\ЛЕКЦИЯ сортировки.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\Debug\ЛЕКЦИЯ сортировки.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\Debug\ЛЕКЦИЯ сортировки.lib" /MACHINE:X86 Debug\Source.obj
+         ЛЕКЦИЯ сортировки.vcxproj -> C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\Debug\ЛЕКЦИЯ сортировки.exe
+     1>Сборка проекта "C:\Users\harya\Documents\Visual Studio 2015\Projects\ЛЕКЦИЯ сортировки\ЛЕКЦИЯ сортировки\ЛЕКЦИЯ сортировки.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.77

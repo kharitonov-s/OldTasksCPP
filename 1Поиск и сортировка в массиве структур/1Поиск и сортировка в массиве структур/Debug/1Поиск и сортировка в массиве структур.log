@@ -1,0 +1,19 @@
+﻿Сборка начата 12.12.2015 12:36:56.
+     1>Проект "c:\Users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\1Поиск и сортировка в массиве структур\1Поиск и сортировка в массиве структур.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp structs.cpp
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\1поиск и сортировка в массиве структур\1поиск и сортировка в массиве структур\source.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         Создание кода...
+         Компиляция...
+         structs.cpp
+         Создание кода...
+       Link:
+         D:\С\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\Debug\1Поиск и сортировка в массиве структур.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\Debug\1Поиск и сортировка в массиве структур.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\Debug\1Поиск и сортировка в массиве структур.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\structs.obj
+         1Поиск и сортировка в массиве структур.vcxproj -> c:\users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\Debug\1Поиск и сортировка в массиве структур.exe
+     1>Сборка проекта "c:\Users\harya\documents\visual studio 2015\Projects\1Поиск и сортировка в массиве структур\1Поиск и сортировка в массиве структур\1Поиск и сортировка в массиве структур.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.33

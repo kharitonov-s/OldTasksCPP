@@ -1,0 +1,16 @@
+﻿Сборка начата 18.12.2015 22:31:47.
+     1>Проект "C:\Users\harya\Documents\Visual Studio 2015\Projects\задача1 урок3\задача1 урок3\задача1 урок3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(42): error C2131: выражение не определяется константой
+         c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(42): note: сбой был вызван неконстантными аргументами или ссылкой на неконстантный символ
+         c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(42): note: см. использование "m"
+     1>c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(58): error C3863: array type 'float [m]' is not assignable
+     1>c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(61): error C3863: array type 'float [m]' is not assignable
+     1>c:\users\harya\documents\visual studio 2015\projects\задача1 урок3\задача1 урок3\source.cpp(67): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
+     1>Сборка проекта "C:\Users\harya\Documents\Visual Studio 2015\Projects\задача1 урок3\задача1 урок3\задача1 урок3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.72

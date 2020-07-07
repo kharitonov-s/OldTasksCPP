@@ -1,0 +1,11 @@
+﻿Сборка начата 20.11.2015 17:05:30.
+     1>Проект "c:\Users\harya\documents\visual studio 2015\Projects\Практика задачи\Практика задачи\Практика задачи.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\практика задачи\практика задачи\source.cpp(3): fatal error C1083: Не удается открыть файл включение: ctype: No such file or directory
+     1>Сборка проекта "c:\Users\harya\documents\visual studio 2015\Projects\Практика задачи\Практика задачи\Практика задачи.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.60

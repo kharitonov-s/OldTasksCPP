@@ -1,0 +1,18 @@
+﻿Сборка начата 24.10.2015 17:20:52.
+     1>Проект "C:\Users\harya\Documents\Visual Studio 2015\Projects\Проект6\Проект6\Проект6.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\С\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp Source1.cpp
+         Source1.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source1.cpp(31): error C3873: "0xbb": этот символ недопустим как первый символ идентификатора
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source1.cpp(31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "»"
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source1.cpp(31): error C2065: »: необъявленный идентификатор
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source1.cpp(31): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source1.cpp(31): warning C4552: >>: оператор не имеет результата; требуется оператор с побочным действием
+         Source.cpp
+     1>c:\users\harya\documents\visual studio 2015\projects\проект6\проект6\source.cpp(50): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+         Создание кода...
+     1>Сборка проекта "C:\Users\harya\Documents\Visual Studio 2015\Projects\Проект6\Проект6\Проект6.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.06
